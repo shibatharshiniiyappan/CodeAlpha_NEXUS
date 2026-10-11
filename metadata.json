@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS — Smart City Intelligence",
+  "description": "Futuristic digital-twin control center for monitoring urban mobility, environmental quality, energy grids, and building intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
